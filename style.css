@@ -1,0 +1,28 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.my-hero-section{
+    background-color: rgb(185, 11, 11);
+}
+.profile{
+    width: 200px;
+    height: 300px;
+    border-radius: 50%;
+}
+.nav{
+    list-style-type: "✓";
+}
+    .nav li{
+        display: inline;
+        margin-right: 20px
+    }
+.big title{
+color: aqua;
+font-size: 32px;
+text-transform: uppercase;
+}
+.highlight{
+    color: rgb(180, 109, 23);
+    font-weight:bold;
+    background-color: blueviolet;
+}
